@@ -5,7 +5,7 @@
     <Window.Background>
         <ImageBrush>
             <ImageBrush.ImageSource>
-                <BitmapImage UriSource="E:\程序\island\神秘小岛\island.jpg"/>
+                <BitmapImage UriSource="pack://siteoforigin:,,,/island.jpg"/>
             </ImageBrush.ImageSource>
         </ImageBrush>
     </Window.Background>
