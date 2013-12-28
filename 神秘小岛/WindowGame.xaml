@@ -1,0 +1,15 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="神秘小岛.WindowGame"
+        Title="WindowGame" Height="600" Width="800" WindowStyle="None"  WindowStartupLocation="CenterScreen" KeyDown="Esc" AllowsTransparency="True">
+    <Grid Margin="0,0,-8,0">
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100">
+            <Image.OpacityMask>
+                <ImageBrush/>
+            </Image.OpacityMask>
+        </Image>
+
+    </Grid>
+</Window>
