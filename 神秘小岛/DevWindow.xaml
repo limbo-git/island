@@ -5,7 +5,7 @@
     <Window.Background>
         <ImageBrush>
             <ImageBrush.ImageSource>
-                <BitmapImage UriSource="file:///E:/程序/大创/神秘小岛/神秘小岛/神秘小岛/界面.JPG"/>
+                <BitmapImage UriSource="E:\程序\island\神秘小岛\island.jpg"/>
             </ImageBrush.ImageSource>
         </ImageBrush>
     </Window.Background>
